@@ -1,4 +1,4 @@
-package Array;
+package dsa.Array;
 
 public class LinearSearch {
     public static boolean search(int arr[] , int tar){

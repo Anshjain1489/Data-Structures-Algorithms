@@ -1,4 +1,4 @@
-package Array;
+package dsa.Array;
 
 public class RotateArray{
     public static void reverseArray(int[] arr,int start,int end) {
